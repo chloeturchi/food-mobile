@@ -1,7 +1,7 @@
 # Food Mobile App - [online course]
 
 ## Introduction
-A food mobile app developped with react-native
+A food mobile app developed with react-native
 
 ## Tools
 - react-native
